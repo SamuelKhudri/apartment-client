@@ -1,0 +1,25 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;700&family=Roboto:wght@400;500;700&display=swap');
+
+/* global css start */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Jost', sans-serif;
+  font-family: 'Roboto', sans-serif !important;
+}
+a{
+  text-decoration: none !important;
+}
+img {
+  max-width: 100%;
+}
+.slick-prev:before, .slick-next:before {
+  color: #F3184F !important;
+}
+
+/* global css end */
